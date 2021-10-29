@@ -1,0 +1,21 @@
+D:\Download\API\text file statistc\bin\Debug\text file statistc.dll
+D:\Download\API\text file statistc\bin\Debug\text file statistc.pdb
+D:\Download\API\text file statistc\obj\Debug\TextFileStatistcClassLibrary.csproj.CoreCompileInputs.cache
+D:\Download\API\text file statistc\obj\Debug\text file statistc.dll
+D:\Download\API\text file statistc\obj\Debug\text file statistc.pdb
+D:\Download\TextFileStatistcs\text file statistc\bin\Debug\text file statistc.dll
+D:\Download\TextFileStatistcs\text file statistc\bin\Debug\text file statistc.pdb
+D:\Download\TextFileStatistcs\text file statistc\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Download\TextFileStatistcs\text file statistc\obj\Debug\TextFileStatistcClassLibrary.csprojAssemblyReference.cache
+D:\Download\TextFileStatistcs\text file statistc\obj\Debug\TextFileStatistcClassLibrary.csproj.CoreCompileInputs.cache
+D:\Download\TextFileStatistcs\text file statistc\obj\Debug\TextFileStatistcClassLibrary.csproj.CopyComplete
+D:\Download\TextFileStatistcs\text file statistc\obj\Debug\text file statistc.dll
+D:\Download\TextFileStatistcs\text file statistc\obj\Debug\text file statistc.pdb
+C:\Users\kiryl\OneDrive\Desktop\API\text file statistc\bin\Debug\text file statistc.dll
+C:\Users\kiryl\OneDrive\Desktop\API\text file statistc\bin\Debug\text file statistc.pdb
+C:\Users\kiryl\OneDrive\Desktop\API\text file statistc\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\kiryl\OneDrive\Desktop\API\text file statistc\obj\Debug\TextFileStatistcClassLibrary.csprojAssemblyReference.cache
+C:\Users\kiryl\OneDrive\Desktop\API\text file statistc\obj\Debug\TextFileStatistcClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kiryl\OneDrive\Desktop\API\text file statistc\obj\Debug\TextFileStatistcClassLibrary.csproj.CopyComplete
+C:\Users\kiryl\OneDrive\Desktop\API\text file statistc\obj\Debug\text file statistc.dll
+C:\Users\kiryl\OneDrive\Desktop\API\text file statistc\obj\Debug\text file statistc.pdb

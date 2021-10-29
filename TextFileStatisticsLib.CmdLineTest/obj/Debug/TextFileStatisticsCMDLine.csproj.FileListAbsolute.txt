@@ -1,0 +1,55 @@
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.exe.config
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.exe
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.pdb
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.dll
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.pdb
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csprojAssemblyReference.cache
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csproj.CoreCompileInputs.cache
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csproj.CopyComplete
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsLib.CmdLineTest.exe
+D:\Download\Kiril Yordanov\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsLib.CmdLineTest.pdb
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.exe.config
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.exe
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.pdb
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.dll
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.pdb
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csprojAssemblyReference.cache
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csproj.CoreCompileInputs.cache
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csproj.CopyComplete
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsLib.CmdLineTest.exe
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsLib.CmdLineTest.pdb
+D:\Download\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.dll.config
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csprojAssemblyReference.cache
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csproj.CoreCompileInputs.cache
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsLib.CmdLineTest.exe
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsLib.CmdLineTest.pdb
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.exe.config
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.exe
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.pdb
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.dll
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\WebApiClient.dll
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\Newtonsoft.Json.dll
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.pdb
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.dll.config
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\WebApiClient.pdb
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\WebApiClient.dll.config
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\bin\Debug\Newtonsoft.Json.xml
+D:\Download\TextFileStatistcs\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csproj.CopyComplete
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.exe.config
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.exe
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\TextFileStatisticsLib.CmdLineTest.pdb
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.dll
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\WebApiClient.dll
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.pdb
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\text file statistc.dll.config
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\WebApiClient.pdb
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\WebApiClient.dll.config
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csprojAssemblyReference.cache
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csproj.CoreCompileInputs.cache
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsCMDLine.csproj.CopyComplete
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsLib.CmdLineTest.exe
+C:\Users\kiryl\OneDrive\Desktop\API\TextFileStatisticsLib.CmdLineTest\obj\Debug\TextFileStatisticsLib.CmdLineTest.pdb

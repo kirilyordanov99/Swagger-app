@@ -1,0 +1,76 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "v1",
+    "title": "TextFileStatisticsWebApi"
+  },
+  "host": "localhost:54227",
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/api/Methods/WrapLines": {
+      "post": {
+        "tags": [
+          "Methods"
+        ],
+        "operationId": "Methods_WrapLines",
+        "consumes": [],
+        "produces": [
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "parameters": [
+          {
+            "name": "sourceStr",
+            "in": "query",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "/api/Methods/GetTextFromHtml": {
+      "post": {
+        "tags": [
+          "Methods"
+        ],
+        "operationId": "Methods_GetTextFromHtml",
+        "consumes": [],
+        "produces": [
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "parameters": [
+          {
+            "name": "html",
+            "in": "query",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {}
+}

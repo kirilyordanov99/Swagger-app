@@ -1,0 +1,2 @@
+D:\Download\TextFileStatistcs\WebApiClient\obj\Debug\WebApiClient.csprojAssemblyReference.cache
+D:\Download\TextFileStatistcs\WebApiClient\obj\Debug\WebApiClient.csproj.CoreCompileInputs.cache

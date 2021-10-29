@@ -1,0 +1,45 @@
+Task for coursework "Developing API"
+------------------------------------
+
+1. Create a class library according to the task you received at the beginning of the semester.
+2. Create a console application in order to consume the functionality of the class library from "1.".
+2.1. Note: You need to have a reference to the class library.
+2.2. Alternatively you can create a unit test project in order to test the class library.
+3. Create a web application (ASP.NET Web Application (.NET Framework) --> Web API).
+   This application will expose the functionality of the class library from "1." via HTTP.
+3.1. Note: You need to have a reference to the class library.
+4. In "3.", create a web service (Web Service (ASMX)). From this web service, expose all the public methods of the class library.
+5. Create anoter console application in order to test "3.".
+5.1. Note: This application shall NOT have a reference to the class library from "1.".
+     Reason: The functionality of "1." is exposed by "3." (in theory, "1." and "3." could resede on a remote server anywhere in the world).
+5.2. Add a service reference (to "4.") to the project. Use the generated client in order to consume "3.".
+6. In "3.", create a Web API controller ("Web API 2 Controller - Empty" or "Web API 2 Controller with read/write actions", what suits you best).
+6.1. From this Web API controller, expose all the public methods of the class library from "1.".
+6.2. Note: If you need you can create more than one such controller.
+7. In order to be able to test the controller, and as a necessary step for generating a client for the Web API, add Swagger to "3.".
+7.1. To do so, install "Swashbuckle" package via "Project --> Manage NuGet Packages..."
+7.2. Build "3." and start debugging it. When the web browser loads the default page of the application, append "swagger" to the URL and navigate.
+     You will see the swagger UI and will be able to test "6.".
+7.3. Save to the file system the swagger specification of "6." (the so-called "swagger.json"). By default, it can be accessed by appending
+     "/docs/v1" to the URL from "7.2.".
+8. Create a class library which will act as a client for "6.".
+   Reason: Once you have this client, you use it and forger about Web API-related particularities.
+8.1. Note: It shall NOT have a reference to the class library from "1.".
+8.2. Note: It shall NOT have a reference to the web application from "3." either.
+8.3. Add a client for "6.". To do so, right-click the project in solution explorer and choose "Add --> REST API Client...".
+     You will be asked to specify swagger metadata. Browse to the "swagger.json" which you saved at "7.3.".
+8.3.1. In order to be able to use the generated client, create a class that inherits the generated abstract class "ServiceClientCredentials".
+       Add a constructor to it and call the constructor of the base class.
+8.3.2. After that, use the class you created at "8.3.1." when "ServiceClientCredentials" is required.
+9. In "5.", add a reference to "8." and use it in order to consume "6.".
+10. In "3.", add an area (Add --> Area) in Areas folder and in that area add an ordinary controller (Add --> Controller... --> MVC 5 Controller - Empty or MVC 5 Controller with read/write actions, which suits you best).
+10.1. In that controller, expose all the public methods of the class library from "1.".
+11. In "8.", create a client for "10.". You need to write this client by yourself.
+11.1. Note: You can use classes "System.Net.Http.HttpClient", and a suitable inheritor of "System.Net.Http.HttpContent"
+      (for example "System.Net.Http.StringContent") in your implementation.
+      When you use HttpClient.PostAsync() or HttpClient.GetAsync(), you can avoid the particularities of the asynchronous calls
+      in the following manner: "httpClient.PostAsync().Result;".
+12. In "5.", consume "11.".
+13. Create a web application (ASP.NET Web Application (.NET Framework) --> MVC). This application will consume "3." in two different ways:
+    Via "8." (from the server) and via javascript (jQuery) AJAX calls (i.e. from the client, e.g. web browser).
+14. In projects "3.", "8." add NuGet package NLog. Configure write to log file and log every exception you catch.

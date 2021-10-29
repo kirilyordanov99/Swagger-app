@@ -1,0 +1,11 @@
+D:\Kiril Yordanov\text file statistc\bin\Debug\text file statistc.dll
+D:\Kiril Yordanov\text file statistc\bin\Debug\text file statistc.pdb
+D:\Kiril Yordanov\text file statistc\obj\Debug\text file statistc.csprojResolveAssemblyReference.cache
+D:\Kiril Yordanov\text file statistc\obj\Debug\text file statistc.dll
+D:\Kiril Yordanov\text file statistc\obj\Debug\text file statistc.pdb
+D:\Download\Kiril Yordanov\text file statistc\bin\Debug\text file statistc.dll
+D:\Download\Kiril Yordanov\text file statistc\bin\Debug\text file statistc.pdb
+D:\Download\Kiril Yordanov\text file statistc\obj\Debug\text file statistc.csprojAssemblyReference.cache
+D:\Download\Kiril Yordanov\text file statistc\obj\Debug\text file statistc.csproj.CoreCompileInputs.cache
+D:\Download\Kiril Yordanov\text file statistc\obj\Debug\text file statistc.dll
+D:\Download\Kiril Yordanov\text file statistc\obj\Debug\text file statistc.pdb

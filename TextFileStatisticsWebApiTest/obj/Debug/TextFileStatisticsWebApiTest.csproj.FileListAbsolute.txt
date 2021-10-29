@@ -1,0 +1,7 @@
+D:\Download\API\TextFileStatisticsWebApiTest\bin\Debug\TextFileStatisticsWebApiTest.exe.config
+D:\Download\API\TextFileStatisticsWebApiTest\bin\Debug\TextFileStatisticsWebApiTest.exe
+D:\Download\API\TextFileStatisticsWebApiTest\bin\Debug\TextFileStatisticsWebApiTest.pdb
+D:\Download\API\TextFileStatisticsWebApiTest\obj\Debug\TextFileStatisticsWebApiTest.csprojAssemblyReference.cache
+D:\Download\API\TextFileStatisticsWebApiTest\obj\Debug\TextFileStatisticsWebApiTest.csproj.CoreCompileInputs.cache
+D:\Download\API\TextFileStatisticsWebApiTest\obj\Debug\TextFileStatisticsWebApiTest.exe
+D:\Download\API\TextFileStatisticsWebApiTest\obj\Debug\TextFileStatisticsWebApiTest.pdb
